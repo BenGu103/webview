@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         webSettings.setJavaScriptEnabled(true);
         mWebView.setWebViewClient(new MyWebViewClient());
 
-         REMOTE RESOURCE
+      //   REMOTE RESOURCE
          mWebView.loadUrl("https://www.google.com");
 
         // LOCAL RESOURCE
